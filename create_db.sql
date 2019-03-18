@@ -38,7 +38,7 @@ CREATE TABLE Adress (
                 street VARCHAR(200) NOT NULL,
                 city VARCHAR(50) NOT NULL,
                 zipcode CHAR(5) NOT NULL,
-                user_id INT NOT NULL,
+                user_id INT DEFAULT Null,
                 PRIMARY KEY (id)
 );
 

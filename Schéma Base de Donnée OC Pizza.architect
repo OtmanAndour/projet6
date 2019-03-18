@@ -179,7 +179,7 @@
     <column id="COL49" populated="true" UUID="2d79ac16-b134-4dd4-8699-a11b0045d87c" autoIncrement="false" autoIncrementSequenceName="Adress_zipcode_seq" defaultValue="" name="zipcode" nullable="0" physicalName="zipcode" precision="5" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="1" userDefinedTypeUUID="67ddc63f-5541-4dd1-9236-632d9d155e80" >
      <remarks></remarks>
     </column>
-    <column id="COL50" populated="true" UUID="8d2a0cf8-c473-44af-aa7c-662ab4ac8774" autoIncrement="false" autoIncrementSequenceName="Adress_user_id_seq" defaultValue="" name="user_id" nullable="0" physicalName="user_id" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
+    <column id="COL50" populated="true" UUID="8d2a0cf8-c473-44af-aa7c-662ab4ac8774" autoIncrement="false" autoIncrementSequenceName="Adress_user_id_seq" defaultValue="Null" name="user_id" nullable="1" physicalName="user_id" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
      <remarks></remarks>
     </column>
     </folder>
